@@ -1,0 +1,16 @@
+# Virtual Environments (rendume ignore pannanum)
+venv/
+.venv/
+
+# Secret API Keys
+.env
+
+# Python Cache & IDE Settings
+__pycache__/
+
+*.pyc
+.vscode/
+
+# User Uploaded & Generated Test Files
+uploads/
+outputs/
