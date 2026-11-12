@@ -33,7 +33,6 @@ pyarrow==26.0.1
 pydantic==2.14.3
 pydantic_core==2.50.4
 pydeck==0.9.3
-PyMuPDF==1.23.26
 PyMuPDFb==1.23.22
 python-dateutil==4.0.0
 python-dotenv==1.0.1
