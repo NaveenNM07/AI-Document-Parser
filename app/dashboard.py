@@ -179,10 +179,11 @@ with st.sidebar:
     st.markdown("### ⚡ NEXUS PARSER")
     st.caption("AI-Powered Document Intelligence")
     st.markdown("---")
-    
+
+
     api_url = st.text_input(
         "API Endpoint",
-        value="http://127.0.0.1:8000/api/v1/parse"
+        value="https://ai-document-parser-665l.onrender.com/api/v1/parse"
     )
     
     doc_type = st.selectbox(
